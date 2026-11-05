@@ -1,3 +1,4 @@
+# KR2: Maksimov
 import os
 import socket
 
